@@ -12,6 +12,7 @@ import Trend from '../components/Trend.vue'
     },
     
   }
+  console.log("11");
 </script>
 
 <style scoped>
